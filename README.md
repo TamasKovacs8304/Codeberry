@@ -1,2 +1,2 @@
 # Codeberry
-Tasks on a course at Codeberry
+Tasks on a python course at Codeberry School
